@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\contract\\responses\\singleartistresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|solutionrelative:contract\\responses\\singleartistresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED11E67B-9691-496A-9B93-02919E6CECAE}|Infrastructure\\Infrastructure.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED11E67B-9691-496A-9B93-02919E6CECAE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\contract\\responses\\singletrackresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|solutionrelative:contract\\responses\\singletrackresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\contract\\requests\\artistrequest\\createartistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|solutionrelative:contract\\requests\\artistrequest\\createartistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\contract\\requests\\artistrequest\\deleteartistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|solutionrelative:contract\\requests\\artistrequest\\deleteartistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\contract\\requests\\trackrequest\\deletetrackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|solutionrelative:contract\\requests\\trackrequest\\deletetrackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\contract\\requests\\trackrequest\\createtrackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|solutionrelative:contract\\requests\\trackrequest\\createtrackrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E205B0-FDAD-4EB8-9348-78A21F525BB9}|Application\\Application.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E205B0-FDAD-4EB8-9348-78A21F525BB9}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\contract\\contract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{429978E2-B567-492A-904C-9CBDA5FFE817}|Contract\\Contract.csproj|solutionrelative:contract\\contract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7072A64-56A5-4EAD-89B9-3C1E11D21BD4}|Web_API\\Web_API.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\web_api\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7072A64-56A5-4EAD-89B9-3C1E11D21BD4}|Web_API\\Web_API.csproj|solutionrelative:web_api\\web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E205B0-FDAD-4EB8-9348-78A21F525BB9}|Application\\Application.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2E205B0-FDAD-4EB8-9348-78A21F525BB9}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|d:\\dpdtt\\c#   asp.net  3sikl\\musicportal\\domain\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCF6CC1-30CE-413B-B5D5-0C47D531D2DE}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleArtistResponce.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Responses\\SingleArtistResponce.cs",
+              "RelativeDocumentMoniker": "Contract\\Responses\\SingleArtistResponce.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Responses\\SingleArtistResponce.cs",
+              "RelativeToolTip": "Contract\\Responses\\SingleArtistResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:25:56.818Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T03:28:09.859Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingleTrackResponce.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Responses\\SingleTrackResponce.cs",
+              "RelativeDocumentMoniker": "Contract\\Responses\\SingleTrackResponce.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Responses\\SingleTrackResponce.cs",
+              "RelativeToolTip": "Contract\\Responses\\SingleTrackResponce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:24:17.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateArtistRequest.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\ArtistRequest\\CreateArtistRequest.cs",
+              "RelativeDocumentMoniker": "Contract\\Requests\\ArtistRequest\\CreateArtistRequest.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\ArtistRequest\\CreateArtistRequest.cs",
+              "RelativeToolTip": "Contract\\Requests\\ArtistRequest\\CreateArtistRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:20:01.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Album.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Album.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Album.cs",
+              "RelativeToolTip": "Domain\\Entities\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:36:09.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteArtistRequest.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\ArtistRequest\\DeleteArtistRequest.cs",
+              "RelativeDocumentMoniker": "Contract\\Requests\\ArtistRequest\\DeleteArtistRequest.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\ArtistRequest\\DeleteArtistRequest.cs",
+              "RelativeToolTip": "Contract\\Requests\\ArtistRequest\\DeleteArtistRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:21:24.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteTrackRequest.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\TrackRequest\\DeleteTrackRequest.cs",
+              "RelativeDocumentMoniker": "Contract\\Requests\\TrackRequest\\DeleteTrackRequest.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\TrackRequest\\DeleteTrackRequest.cs",
+              "RelativeToolTip": "Contract\\Requests\\TrackRequest\\DeleteTrackRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:44:37.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Artist.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Artist.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Artist.cs",
+              "RelativeToolTip": "Domain\\Entities\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:35:40.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTrackRequest.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\TrackRequest\\CreateTrackRequest.cs",
+              "RelativeDocumentMoniker": "Contract\\Requests\\TrackRequest\\CreateTrackRequest.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Requests\\TrackRequest\\CreateTrackRequest.cs",
+              "RelativeToolTip": "Contract\\Requests\\TrackRequest\\CreateTrackRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:40:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Track.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Track.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Track.cs",
+              "RelativeToolTip": "Domain\\Entities\\Track.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:36:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:38:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contract.csproj",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Contract.csproj",
+              "RelativeDocumentMoniker": "Contract\\Contract.csproj",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Contract\\Contract.csproj",
+              "RelativeToolTip": "Contract\\Contract.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T22:36:21.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:40:06.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Genre.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Genre.cs",
+              "RelativeToolTip": "Domain\\Entities\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:37:01.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Person.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "Domain\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:57:55.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web_API.csproj",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Web_API\\Web_API.csproj",
+              "RelativeDocumentMoniker": "Web_API\\Web_API.csproj",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Web_API\\Web_API.csproj",
+              "RelativeToolTip": "Web_API\\Web_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T22:20:46.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Playlist.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Playlist.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Playlist.cs",
+              "RelativeToolTip": "Domain\\Entities\\Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:37:44.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Purchase.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Purchase.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\Purchase.cs",
+              "RelativeToolTip": "Domain\\Entities\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:38:59.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:37:18.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T22:09:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:06:58.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T21:34:49.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Gender.cs",
+              "ToolTip": "D:\\DPDTT\\C#   ASP.NET  3sikl\\MusicPortal\\Domain\\Enum\\Gender.cs",
+              "RelativeToolTip": "Domain\\Enum\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:40:47.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
